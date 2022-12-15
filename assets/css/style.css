@@ -72,6 +72,7 @@ p {
 
 /* changed to semantic element */
 section {
+    float: left;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
