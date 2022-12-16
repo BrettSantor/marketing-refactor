@@ -20,23 +20,23 @@ The
 This is code before I have refactored it. It uses very generic syntax that doesn't play nice with tools such as screen readers
 
 
-![Starting Code](assets\images\before.png)
+![Starting Code](/assets/images/before.png)
 
 
 Here we have the code that has been refactored using semantic language that helps tools like screen readers to better render the page
 
 
-![Refactored Code](assets\images\after.png)
+![Refactored Code](/assets/images/after.png)
 
 When making changes to the HTML you must also make changes to the CSS to keep the same styling that we start with. Also when taking a job like this it is good to remember the scout rule "Always leave the code a little cleaner than when you found it".
 
 This is the style sheet before refactoring
 
-![starting css](assets\images\cssbefore.png)
+![starting css](/assets/images/cssbefore.png)
 
 This is the style sheet after refactoring
 
-![refactored css](assets\images\cssafter.png)
+![refactored css](/assets/images/cssafter.png)
 
 
 
