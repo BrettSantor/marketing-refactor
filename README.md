@@ -13,26 +13,21 @@ A refactor of Horiseon Social Services website to make it more accesible and eff
 
 ## Learning Points
 
-By diving in to this refactor exercise I've learned the difference between semantic elements and generic elements and where to use them. I have also 
+By diving in to this refactor exercise I've learned the difference between semantic elements and generic elements and where to use them. I have also learned how to condense code to be more efficient in CSS.
 
 
-## Authors
+## Author Info
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+  - **Brett Santor** - *Refactored Horiseon Website* 
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+    [Github](https://github.com/BrettSantor)
+
+
+## Credits
+
+This would not work as well if it were not for the help and guidance [Jerome Chenette](https://www.linkedin.com/in/jeromechenette/) and the study group that his class holds!
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+This project does not carry a liscense
 
-## Acknowledgments
-
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
