@@ -4,7 +4,7 @@ A refactor of Horiseon Social Services website to make it more accesible and eff
 
 ## Deployment
 
-[Horiseon](url here) - Live website
+[Horiseon](https://brettsantor.github.io/marketing-refactor/) - Live website
 
 ## Built With
 
