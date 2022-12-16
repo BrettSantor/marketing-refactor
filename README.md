@@ -1,6 +1,6 @@
 # Horiseon refactor
 
-A refactor of Horiseon Social Services website to make it more accesible and efficient.
+A refactor of Horiseon Social Services website to make it more accesible and efficient. 
 
 ## Deployment
 
@@ -11,16 +11,10 @@ A refactor of Horiseon Social Services website to make it more accesible and eff
   - HTML
   - CSS
 
-## Contributing
+## Learning Points
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+By diving in to this refactor exercise I've learned the difference between semantic elements and generic elements and where to use them. I have also 
 
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
